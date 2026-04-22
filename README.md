@@ -1,4 +1,4 @@
-# Hi there, I'm Olwethu Nguza 👋
+# Hi there, I'm Olwethu Nguza
 
 **Applied AI Engineer | Full-stack Developer (Python/React) | AWS Cloud Engineer**
 
